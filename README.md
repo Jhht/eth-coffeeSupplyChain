@@ -93,8 +93,12 @@ Deploying 'SupplyChain'
    > block timestamp:     1635110122
    > account:             0x77D2afC664328661cf3d04525e902dAE0D9C7Fd6
 
+## Program version numbers
 
-
+Truffle v5.4.12 (core: 5.4.12)
+Solidity v0.5.16 (solc-js)
+Node v14.18.1
+Web3.js v1.5.3
 
 ## Getting Started
 
